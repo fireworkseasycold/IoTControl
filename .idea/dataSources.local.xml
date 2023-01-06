@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="4762833a-0b49-4f2c-b745-8c978f46e7c0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="mt1_db@localhost" uuid="0136414f-e9ae-4c0e-8be0-4a26647d90e7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>mypostgres</user-name>
+    </data-source>
+  </component>
+</project>
